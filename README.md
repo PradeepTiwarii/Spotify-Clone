@@ -1,4 +1,3 @@
-
 # Spotify Clone Web Player
 
 This project is a simple Spotify Web Player clone, designed to mimic the look and feel of Spotify's interface. It is built using **HTML**, **CSS**, and **JavaScript**. The clone features a sidebar navigation menu, a main content area displaying music cards, and a fixed music player at the bottom.
