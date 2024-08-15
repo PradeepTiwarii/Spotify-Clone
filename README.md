@@ -61,7 +61,7 @@ spotify-clone/
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/your-username/spotify-clone.git
+   git clone https://github.com/PradeepTiwarii/Spotify-Clone.git
    ```
 
 2. **Open `index.html`**:
